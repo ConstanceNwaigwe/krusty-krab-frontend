@@ -3,9 +3,13 @@ import './index.scss'
 function Nav() {
 
     return (
-      <div>
-        <h1></h1>
-      </div>
+      <nav>
+        <p>🍍 SpongeBob's Krusty Site</p>
+        <a>Home</a>
+        <a>About</a>
+        <a>Menu</a>
+        <a>Staff</a>
+      </nav>
     )
 }
   
