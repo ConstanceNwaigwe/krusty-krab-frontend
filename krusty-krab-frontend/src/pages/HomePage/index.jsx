@@ -1,12 +1,14 @@
 import './index.scss'
 import Nav from '../../components/Nav'
+import Footer from '../../components/Footer'
 
 function HomePage() {
 
     return (
       <div>
         <Nav/>
-        <h1></h1>
+        <div></div>
+        <Footer/>
       </div>
     )
 }
